@@ -4,3 +4,5 @@
 
 **Выполнил:** студент группы ИВТ-223, Трубицын Д.А
 [MobDev_kurs_Dime.pdf](https://github.com/EMM0BOY/LR1_mob/files/11663808/MobDev_kurs_Dime.pdf)
+
+https://drive.google.com/drive/folders/1QCgs0Bwadx3vkoSxPeIzWYJGVSaaLCrJ?usp=sharing
